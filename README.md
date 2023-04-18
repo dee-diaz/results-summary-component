@@ -36,7 +36,7 @@ Users should be able to:
 
 ## My process
 
-1. Set up a basic HTML file with the necessary structure for the landing page.
+1. Set up a basic HTML file with the necessary structure.
 
 2. Wrote the CSS styles using SASS, which is a CSS preprocessor that makes it easier to write complex stylesheets. SASS allows you to use variables, mixins, and functions, which can simplify the process of writing CSS.
 
